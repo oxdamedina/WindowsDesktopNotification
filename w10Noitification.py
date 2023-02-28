@@ -1,9 +1,9 @@
 #-------------------------------------------------------------------------------
-# Name:			w10Noitification.py
-# Purpose:	    Notificación Escritorio W10
-# Version:		v0.0.1
-# Author:		David Alvarez Medina
-# Created:		28/02/2023
+# Name:     w10Noitification.py
+# Purpose:  Notificación Escritorio W10
+# Version:  v0.0.1
+# Author:   David Alvarez Medina
+# Created:  28/02/2023
 #-------------------------------------------------------------------------------
 
 # Change Log -------------------------------------------------------------------
